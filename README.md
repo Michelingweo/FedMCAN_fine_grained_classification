@@ -1,4 +1,6 @@
-# MCAN_fine_grained_classification
+# FedMCAN_fine_grained_classification
+
+## key words: Multi-modal Federated Learning, Fine-grained Classification
 
 This is a demo implementation of federated MCAN model for visual-textual fine-grained classification task based on PyTorch.
 https://openaccess.thecvf.com/content_CVPR_2019/papers/Yu_Deep_Modular_Co-Attention_Networks_for_Visual_Question_Answering_CVPR_2019_paper.pdf

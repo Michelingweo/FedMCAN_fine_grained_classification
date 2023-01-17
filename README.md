@@ -13,5 +13,12 @@ https://openaccess.thecvf.com/content_CVPR_2019/papers/Yu_Deep_Modular_Co-Attent
 >Data set: Flower 102<br>
 >Data modality: image, text<br>
 
+To run the model, please do the follow:
+<ol>
+<li>Set the experiment parameters at utils -> setting.py</li>
+<li>Run main.py</li>
+<li>Check the experiment result and loss curve at save</li>
+</ol>
+
 
 
